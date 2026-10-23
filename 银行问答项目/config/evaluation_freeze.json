@@ -1,0 +1,7 @@
+{
+  "state": "frozen",
+  "frozen_at": "2026-10-21T16:40:39.583772+08:00",
+  "directory": "data/evaluation/frozen/20261021_k3_v1",
+  "freeze_manifest_sha256": "fac151d7f9602ec41d09b0becbdb45acd2d1c11b1ab179a96d78eecd4bb4d174",
+  "final_test_authorized": false
+}

@@ -1,0 +1,2 @@
+# BM25 baseline: Python 3.10+ standard library only. No pip dependencies.
+# Optional local vector retrieval: see requirements-rag.txt and requirements-rag-lock.txt.

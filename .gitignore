@@ -1,0 +1,19 @@
+# Private inputs, credentials, environments and generated artifacts
+**/.secrets/
+**/.env
+**/.env.*
+!**/.env.example
+**/.rag_packages/
+**/.venv/
+**/venv/
+**/__pycache__/
+*.py[cod]
+**/models/
+**/data/
+**/outputs/
+公开资料/
+*.docx
+*.pdf
+*.xlsx
+*.mp4
+*.zip

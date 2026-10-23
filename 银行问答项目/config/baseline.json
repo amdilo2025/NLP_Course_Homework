@@ -1,0 +1,32 @@
+{
+  "source_dir": "../公开资料/工商银行",
+  "source_manifest": "verified_sources_20261015.json",
+  "knowledge_file": "知识条目_20261015.jsonl",
+  "canonical_source_id": "S001",
+  "formatting_mirror_id": "S003",
+  "additional_source_ids": ["S002", "S018"],
+  "output_dir": "data/processed",
+  "run_dir": "outputs/runs",
+  "k1": 1.2,
+  "b": 0.75,
+  "tokenizer": "char_bigram",
+  "top_k": 3,
+  "random_seed": 0,
+  "cleaning_policy_version": "icbc-20261015-v1",
+  "article_paragraphs": {
+    "2": [0],
+    "6": [0, 1],
+    "11": [0],
+    "15": [1],
+    "17": [0],
+    "21": [0, 1, 2, 3],
+    "22": [0, 1, 2],
+    "23": [0],
+    "25": [0, 1],
+    "30": [0, 4],
+    "31": [0],
+    "34": [0],
+    "35": [1],
+    "36": [0]
+  }
+}
